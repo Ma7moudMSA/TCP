@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/TCP.dir/main.cpp.o CMakeFiles/TCP.dir/src/Modes.cpp.o  -o TCP 

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/houda/Downloads/TCP/TCP/build",
+  "command": "/usr/bin/c++   -I/home/houda/Downloads/TCP/TCP/include  -g   -o CMakeFiles/TCP.dir/main.cpp.o -c /home/houda/Downloads/TCP/TCP/main.cpp",
+  "file": "/home/houda/Downloads/TCP/TCP/main.cpp"
+},
+{
+  "directory": "/home/houda/Downloads/TCP/TCP/build",
+  "command": "/usr/bin/c++   -I/home/houda/Downloads/TCP/TCP/include  -g   -o CMakeFiles/TCP.dir/src/Modes.cpp.o -c /home/houda/Downloads/TCP/TCP/src/Modes.cpp",
+  "file": "/home/houda/Downloads/TCP/TCP/src/Modes.cpp"
+}
+]

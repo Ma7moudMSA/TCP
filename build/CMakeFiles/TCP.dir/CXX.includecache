@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Modes.h
+
+../include/TCPClient.h
+arpa/inet.h
+-
+cstring
+-
+iostream
+-
+unistd.h
+-
+
+../include/TCPServer.h
+arpa/inet.h
+-
+cstring
+-
+iostream
+-
+netinet/in.h
+-
+sys/socket.h
+-
+unistd.h
+-
+
+/home/houda/Downloads/TCP/TCP/src/Modes.cpp
+Modes.h
+/home/houda/Downloads/TCP/TCP/src/Modes.h
+TCPClient.h
+/home/houda/Downloads/TCP/TCP/src/TCPClient.h
+TCPServer.h
+/home/houda/Downloads/TCP/TCP/src/TCPServer.h
+iostream
+-
+
